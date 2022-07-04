@@ -3,5 +3,5 @@
 En ég er alveg til í að sýna það í viðtali þar sem ég get keyrt það í símanum mínum í gegnum Expo.
 Takk fyrir og aftur biðst ég afsökunar á þessu.
 
-Hér er hlekkur á Ping leik sem ég bjó til í náminu. https://jsfiddle.net/bwmz78e2/3/
+Hér er hlekkur á Ping leik sem ég bjó til í náminu. https://jsfiddle.net/6L4szj7d/
 kv. Bjarki Már
